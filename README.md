@@ -1,32 +1,23 @@
-This is my NeoVim settings
+<h2 align="center">My archlinux dotfiles</h2>
 
-Requirements:
-    + Internet
-    + Python and pynvim
-    + NodeJS and install neovim using npm
+### Images
+<p align="center">
 
-Installing :
-- Install PowerShell config
-    + Get Scoop ("https://scoop.sh/")
-    + Run ("scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json")
-    + Copy and paste Microsoft.PowerShell_profile.ps1 and quick-term.omp.json to "~\Documents\WindowsPowerShell"
-    + Install-Module PowershellGet -Force
-    + PowerShellGet\Install-Module posh-git -Scope CurrentUser -Force
-    + Install-Module -Name Terminal-Icons -Repository PSGallery
-- Install NeoVim config
-    + Install plug-vim : https://github.com/junegunn/vim-plug
-    + Copy and paste nvim and nvim-data folder at local. For me it's is ~/AppData/Local/
-    + Edit file init.vim with NeoVim run command : PlugI to install all the plug-in
-    + Enjoy
+<img src="./img/a.png">
+<img src="./img/b.png">
+<img src="./img/c.png">
+<img src="./img/d.png">
 
-More beautiful if you have Windows Terminal or Linux terminal and use its background
+</p>
 
-And here is the preview pic of my PowerShell config :
 
-<img src = ./image/img1.png> </img>
-
-and my NeoVim config : 
-
-<img src = ./image/img2.png> </img>
-
-Hopefully you enjoyed !!
+### Overview
+| Type          | Package name                                                                                  |
+| :------------ |:----------------------------------------------------------------------------------------------|
+| Color scheme  | [Kali-Dark](https://github.com/SofianeHamlaoui/Kali-Dark)                                        |
+|Desktop Environment | [Hyprland](https://github.com/hyprwm/Hyprland)       |
+| Window manager            | [sway](https://github.com/swaywm/sway)                                                 |
+| Shell         | [zsh](https://zsh.sourceforge.io/)                                                            |                       |
+| Terminal      | [kitty](https://github.com/kovidgoyal/kitty)                                                  |
+| Text editor   | [neovim](https://github.com/neovim/neovim/), [vscode](https://github.com/microsoft/vscode)     |
+|File Manager|[thunar](https://github.com/xfce-mirror/thunar)|
