@@ -21,3 +21,4 @@
 | Terminal      | [kitty](https://github.com/kovidgoyal/kitty)                                                  |
 | Text editor   | [neovim](https://github.com/neovim/neovim/), [vscode](https://github.com/microsoft/vscode)     |
 |File Manager|[thunar](https://github.com/xfce-mirror/thunar)|
+|Keyboard|[fcitx](https://github.com/fcitx/fcitx5)|
